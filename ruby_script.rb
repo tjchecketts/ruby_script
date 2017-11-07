@@ -22,5 +22,9 @@ while true
   when 2
     puts "thanks for playing"
     exit
+
+  else
+    puts "not a valid input, follow the prompts below"
+
   end
 end
